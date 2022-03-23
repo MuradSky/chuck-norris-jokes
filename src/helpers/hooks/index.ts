@@ -1,0 +1,1 @@
+export { useTimerJoke } from "./useTimerJoke";
